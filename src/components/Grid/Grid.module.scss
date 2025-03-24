@@ -1,0 +1,18 @@
+.grid {
+    display: grid;
+    width: 100%;
+    gap: var(--gap, 16px);
+    grid-template-columns: repeat(var(--columns, 1), 1fr);
+
+    @media (min-width: 576px) {
+        --columns: var(--md-columns, var(--columns, 1));
+    }
+
+    @media (min-width: 768px) {
+        --columns: var(--lg-columns, var(--columns, 1));
+    }
+
+    @media (min-width: 992px) {
+        --columns: var(--xl-columns, var(--columns, 1));
+    }
+}

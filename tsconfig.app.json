@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "ES2020", // Современный JavaScript
+    "module": "ESNext", // Модули ESNext
+    "moduleResolution": "node", // Разрешение модулей Node.js
+    "strict": true, // Строгий режим TypeScript
+    "jsx": "react-jsx", // JSX для React
+    "esModuleInterop": true, // Взаимодействие с CommonJS
+    "skipLibCheck": true, // Пропуск проверки типов в библиотеках
+    "forceConsistentCasingInFileNames": true, // Единообразие регистра в именах файлов
+    "declaration": true, // Генерация файлов объявлений типов
+    "outDir": "./dist", // Выходная директория
+    "baseUrl": "./src", // Базовая директория для импортов
+    "paths": {
+      "@components/*": ["components/*"],
+      "@models/*": ["utils/models/*"],
+    },
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}

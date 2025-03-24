@@ -1,0 +1,60 @@
+@use '../../utils/variables/colors.scss';
+
+.taglist {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+
+    &__visbile {
+        color: colors.$red-deep;
+    }
+}
+
+.taglist--horizontal {
+    flex-direction: row;
+}
+
+.taglist--vertical {
+    flex-direction: column;
+    gap: 4px;
+}
+
+.taglist__item {
+    display: flex;
+    align-items: center;
+    width: min-content;
+    padding: 3px 8px;
+    background-color: #f0f0f0;
+    border: 1px solid colors.$gray-light;
+    border-radius: 8px;
+    font-size: 12px;
+    color: colors.$gray-dark;
+    transition: 0.2s ease;
+
+    &:hover {
+        color: colors.$red-vine;
+        border: 1px solid colors.$red-deep;
+    }
+}
+
+.taglist__text {
+    max-width: 60px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex: 1;
+    min-width: 20px;
+}
+
+.taglist__remove {
+    flex-shrink: 0;
+    color: colors.$dark-accent;
+    font-size: 12px;
+    cursor: pointer;
+    margin-left: 4px;
+    transition: 0.2s ease;
+
+    &:hover {
+        color: colors.$red-vine;
+    }
+}

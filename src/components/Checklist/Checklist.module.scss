@@ -1,0 +1,55 @@
+@use '../../utils/variables/colors.scss';
+
+.checklistContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.checklistItem {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.checkbox {
+    appearance: none;
+    width: 16px;
+    height: 16px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: opacity 0.2s ease,
+                background-color 0.15s cubic-bezier(0.8, 0, 1, 1),
+                transform 0.25s cubic-bezier(0.8, 0, 1, 1);
+
+    &:hover {
+        opacity: 0.8;
+        transform: scale(1.05);
+    }
+
+    &:checked {
+        background-color: colors.$red-deep;
+        border-color: colors.$red-deep;
+        
+        &:checked + .label {
+            color: colors.$red-vine;
+        }
+    }
+}
+
+.icon {
+    margin-right: 8px;
+}
+
+.label {
+    font-size: 14px;
+    color: colors.$gray-dark;
+    cursor: pointer;
+    transition: background-position 0.15s cubic-bezier(0.8, 0, 1, 1),
+                transform 0.25s cubic-bezier(0.8, 0, 1, 1);
+
+    &:hover {
+        transform: translateX(5px);
+    }
+}

@@ -1,0 +1,75 @@
+$background-pattern: linear-gradient(
+    45deg,
+    #0000 calc(25% / 3),
+    #ffffff 0 calc(50% / 3),
+    #0000 0 calc(250% / 3),
+    #ffffff 0 calc(275% / 3),
+    #0000 0
+  ),
+  linear-gradient(
+    45deg,
+    #ffffff calc(25% / 3),
+    #0000 0 calc(50% / 3),
+    #ffffff 0 25%,
+    #0000 0 75%,
+    #ffffff 0 calc(250% / 3),
+    #0000 0 calc(275% / 3),
+    #ffffff 0
+  ),
+  linear-gradient(
+    -45deg,
+    #0000 calc(25% / 3),
+    #ffffff 0 calc(50% / 3),
+    #0000 0 calc(250% / 3),
+    #ffffff 0 calc(275% / 3),
+    #0000 0
+  ),
+  linear-gradient(
+      -45deg,
+      #ffffff calc(25% / 3),
+      #0000 0 calc(50% / 3),
+      #ffffff 0 25%,
+      #0000 0 75%,
+      #ffffff 0 calc(250% / 3),
+      #0000 0 calc(275% / 3),
+      #ffffff 0
+    )
+    #c9c9c9;
+
+$background-dark-pattern: linear-gradient(
+    45deg,
+    #0000 calc(25% / 3),
+    #333333 0 calc(50% / 3),
+    #0000 0 calc(250% / 3),
+    #333333 0 calc(275% / 3),
+    #0000 0
+  ),
+  linear-gradient(
+    45deg,
+    #333333 calc(25% / 3),
+    #0000 0 calc(50% / 3),
+    #333333 0 25%,
+    #0000 0 75%,
+    #333333 0 calc(250% / 3),
+    #0000 0 calc(275% / 3),
+    #333333 0
+  ),
+  linear-gradient(
+    -45deg,
+    #0000 calc(25% / 3),
+    #333333 0 calc(50% / 3),
+    #0000 0 calc(250% / 3),
+    #333333 0 calc(275% / 3),
+    #0000 0
+  ),
+  linear-gradient(
+      -45deg,
+      #333333 calc(25% / 3),
+      #0000 0 calc(50% / 3),
+      #333333 0 25%,
+      #0000 0 75%,
+      #333333 0 calc(250% / 3),
+      #0000 0 calc(275% / 3),
+      #333333 0
+    )
+    #1a1a1a;

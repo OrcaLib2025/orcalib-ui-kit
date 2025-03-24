@@ -1,0 +1,26 @@
+@use '../../utils/variables/colors.scss';
+
+.spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-height: 72px;
+    width: 100%;
+    height: 100%;
+}
+
+.spinner-circle {
+    border: 4px solid colors.$gray-light;
+    border-top: 4px solid colors.$red-vine;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}

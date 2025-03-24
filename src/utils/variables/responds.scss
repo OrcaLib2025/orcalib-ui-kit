@@ -1,0 +1,61 @@
+$breakpoint-phone: 600px;
+$breakpoint-tablet: 900px;
+$breakpoint-desktop: 1200px;
+$breakpoint-large-desktop: 1440px;
+$breakpoint-ultra-wide: 1920px;
+
+@mixin respond-to($breakpoint) {
+    @if $breakpoint == phone {
+        @media (max-width: $breakpoint-phone) {
+            @content;
+        }
+    } @else if $breakpoint == tablet {
+        @media (max-width: $breakpoint-tablet) {
+            @content;
+        }
+    } @else if $breakpoint == desktop {
+        @media (min-width: $breakpoint-desktop) {
+            @content;
+        }
+    } @else if $breakpoint == large-desktop {
+        @media (min-width: $breakpoint-large-desktop) {
+            @content;
+        }
+    } @else if $breakpoint == ultra-wide {
+        @media (min-width: $breakpoint-ultra-wide) {
+            @content;
+        }
+    }
+}
+
+@function breakpoint-min($breakpoint) {
+    @if $breakpoint == phone {
+        @return $breakpoint-phone;
+    } @else if $breakpoint == tablet {
+        @return $breakpoint-tablet;
+    } @else if $breakpoint == desktop {
+        @return $breakpoint-desktop;
+    } @else if $breakpoint == large-desktop {
+        @return $breakpoint-large-desktop;
+    } @else if $breakpoint == ultra-wide {
+        @return $breakpoint-ultra-wide;
+    }
+}
+
+@function breakpoint-max($breakpoint) {
+    @if $breakpoint == phone {
+        @return $breakpoint-phone - 1;
+    } @else if $breakpoint == tablet {
+        @return $breakpoint-tablet - 1;
+    } @else if $breakpoint == desktop {
+        @return $breakpoint-desktop - 1;
+    }
+}
+
+:root {
+    --breakpoint-phone: #{$breakpoint-phone};
+    --breakpoint-tablet: #{$breakpoint-tablet};
+    --breakpoint-desktop: #{$breakpoint-desktop};
+    --breakpoint-large-desktop: #{$breakpoint-large-desktop};
+    --breakpoint-ultra-wide: #{$breakpoint-ultra-wide};
+}
