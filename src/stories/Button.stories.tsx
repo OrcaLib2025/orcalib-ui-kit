@@ -5,6 +5,7 @@ import { ButtonProps } from '@models/button';
 import { JSX } from 'react/jsx-runtime';
 
 export default {
+  title: 'Components/Button',
   component: Button,
   argTypes: {
     size: {
@@ -46,7 +47,6 @@ WithIconLeft.args = {
   iconPosition: 'left',
 };
 
-// Кнопка с иконкой справа
 export const WithIconRight = Template.bind({});
 WithIconRight.args = {
   text: 'Click me',
