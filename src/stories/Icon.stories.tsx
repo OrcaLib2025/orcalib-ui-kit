@@ -4,6 +4,7 @@ import { Icon } from '../components/Icon';
 import { Grid } from '@components/Grid';
 import { IconName, IconProps } from '@models/icon';
 import { JSX } from 'react/jsx-runtime';
+import { Tooltip } from '@components/Tooltip';
 
 export default {
   title: 'Components/Icon',
@@ -280,3 +281,20 @@ export const AllIcons = () => {
 AllIcons.parameters = {
   controls: { hideNoControlsWarning: true },
 };
+
+export const WithTooltip = () => {
+  const theme = "dark";
+
+  return (
+    <Tooltip theme={theme}>
+      <Icon
+        icon="plus"
+        size="md"
+        color="#2196F3"
+      />
+    </Tooltip>
+  );
+}
+WithTooltip.parameters = {
+  controls: { hideNoControlsWarning: true },
+}

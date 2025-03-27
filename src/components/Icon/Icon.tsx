@@ -12,7 +12,7 @@ export const Icon: React.FC<IconProps> = ({
     disabled,
 }) => {
     const iconClasses = classnames(
-        cl.icon,
+        cl['icon'],
         cl[`icon-${icon}`],
         cl[`icon--${size}`],
         { [cl['icon--disabled']]: disabled, },

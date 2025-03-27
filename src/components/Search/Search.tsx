@@ -12,7 +12,12 @@ export const Search: React.FC<SearchProps> = ({
 }) => {
     return (
         <div className={classnames(cl['searcher-container'])}>
-            <Icon icon="search" />
+            <Icon
+                icon="search"
+                color={
+                    theme === 'dark' ? 'white' : 'black'
+                }
+            />
             <input
                 type="text"
                 value={value}
