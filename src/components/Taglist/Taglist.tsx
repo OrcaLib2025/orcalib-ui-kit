@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import cl from './Taglist.module.scss';
 import classnames from 'classnames';
 import { Tooltip } from '../Tooltip';
-import { TaglistProps } from '@models/tags';
+import { TaglistProps } from '../../utils/models/tags';
 import { Icon } from '../Icon';
 
 export const Taglist: React.FC<TaglistProps> = ({

@@ -1,6 +1,6 @@
 import React, { CSSProperties } from 'react';
 import cl from './Grid.module.scss';
-import { GridProps } from '@models/grid';
+import { GridProps } from '../../utils/models/grid';
 
 export const Grid: React.FC<GridProps> = ({
     children,

@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import cl from './Checklist.module.scss';
-import { ChecklistItem, ChecklistProps } from '@models/checklist';
+import { ChecklistItem, ChecklistProps } from '../../utils/models/checklist';
 
 export const Checklist: React.FC<ChecklistProps> = ({
     items,

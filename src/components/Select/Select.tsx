@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import cl from './Select.module.scss';
 import classnames from 'classnames'
-import { SelectProps } from '@models/select';
+import { SelectProps } from '../../utils/models/select';
 import { Icon } from '../Icon';
 
 export const Select: React.FC<SelectProps> = ({

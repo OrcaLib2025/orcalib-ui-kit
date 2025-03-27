@@ -2,7 +2,7 @@ import React from 'react';
 import cl from './Search.module.scss';
 import classnames from 'classnames';
 import { Icon } from '../Icon';
-import { SearchProps } from '@models/search';
+import { SearchProps } from '../../utils/models/search';
 
 export const Search: React.FC<SearchProps> = ({
     placeholder = 'Введите рецепт или ингредиент...',

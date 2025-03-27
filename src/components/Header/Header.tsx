@@ -1,7 +1,7 @@
 import classnames from "classnames";
 import cl from './Header.module.scss';
 import { Search } from "../Search";
-import { HeaderProps } from "@models/header";
+import { HeaderProps } from "../../utils/models/header";
 
 export const Header: React.FC<HeaderProps> = ({
     siteName,

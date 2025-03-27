@@ -1,6 +1,6 @@
 import React from 'react';
 import cl from './Img.module.scss';
-import { ImgProps } from '@models/Img';
+import { ImgProps } from '../../utils/models/Img';
 
 export const Img: React.FC<ImgProps> = ({
     src,

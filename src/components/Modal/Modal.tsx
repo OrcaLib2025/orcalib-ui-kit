@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from '../Button';
-import { ModalProps } from '@models/button';
+import { ModalProps } from '../../utils/models/button';
 import cl from './Modal.module.scss';
 import classnames from 'classnames';
 

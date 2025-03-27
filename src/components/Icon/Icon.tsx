@@ -1,7 +1,7 @@
 import React from 'react';
 import cl from './Icon.module.scss';
 import classnames from 'classnames';
-import { IconProps } from '@models/icon';
+import { IconProps } from '../../utils/models/icon';
 
 export const Icon: React.FC<IconProps> = ({
     icon,

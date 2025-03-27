@@ -1,7 +1,7 @@
 import React from 'react';
 import classNames from 'classnames';
 import { Spinner } from '../Spinner';
-import { ButtonProps } from '@models/button';
+import { ButtonProps } from '../../utils/models/button';
 import cl from './Button.module.scss';
 
 export const Button: React.FC<ButtonProps> = ({

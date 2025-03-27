@@ -2,7 +2,7 @@ import React from 'react';
 import { BsSun, BsMoon } from 'react-icons/bs';
 import classnames from 'classnames';
 import cl from './ThemeSwitcher.module.scss';
-import { ThemeSwitcherProps } from '@models/themeswitcher';
+import { ThemeSwitcherProps } from '../../utils/models/themeswitcher';
 
 export const ThemeSwitcher: React.FC<ThemeSwitcherProps> = ({
   toggleTheme,

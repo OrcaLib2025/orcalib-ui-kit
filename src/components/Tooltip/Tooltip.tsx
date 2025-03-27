@@ -1,5 +1,5 @@
 import React from "react";
-import { TooltipProps } from "@models/tooltip";
+import { TooltipProps } from "../../utils/models/tooltip";
 import { Button } from "../Button";
 import cl from './Tooltip.module.scss';
 import classnames from 'classnames';

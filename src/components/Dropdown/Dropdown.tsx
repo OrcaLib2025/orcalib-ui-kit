@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { CustomDropdownProps } from "@models/dropdown";
+import { CustomDropdownProps } from "../../utils/models/dropdown";
 import classnames from 'classnames';
 import cl from './Dropdown.module.scss';
 
