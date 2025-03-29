@@ -36,7 +36,7 @@ export const Modal: React.FC<ModalProps> = ({
                 backgroundPosition: 'center',
             }}
         >
-            {backgroundImg && <div className={classnames(cl[`overlay-fade`], cl[`overlay-fade-theme-${theme}`])} />}
+            {backgroundImg && <div className={classnames(cl[`overlay-fade`], cl[`overlay-fade-theme-${theme}`])} onClick={handleBackgroundClick} />}
             <div className={classnames(cl['modal'], cl[`modal-theme-${theme}`], className)}>
                 {isClosable && (
                     <button
