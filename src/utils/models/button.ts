@@ -15,7 +15,7 @@ export interface ModalProps {
     isVisible: boolean;
     isClosable?: boolean;
     title: string;
-    subtitle?: string;
+    subtitle?: string | React.ReactNode;
     action?: ButtonGroupItemType[];
     buttonDirection?: 'row' | 'column';
     children?: React.ReactNode;

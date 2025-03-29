@@ -49,7 +49,11 @@ export const Modal: React.FC<ModalProps> = ({
 
                 <div className={cl['modal-header']}>
                     <h2 className={classnames(cl['modal-title'], cl[`modal-title-theme-${theme}`])}>{title}</h2>
-                    {subtitle && <p className={cl['modal-subtitle']}>{subtitle}</p>}
+                    {typeof subtitle === 'string' ? (
+                        <p className={cl['modal-subtitle']}>{subtitle}</p>
+                    ) : (
+                        subtitle
+                    )}
                 </div>
 
                 <div className={cl['modal-divider']} />
@@ -67,7 +71,7 @@ export const Modal: React.FC<ModalProps> = ({
                             <Button
                                 theme={theme}
                                 key={index}
-                                {...buttonProps}                            />
+                                {...buttonProps} />
                         ))}
                     </div>
                 )}
