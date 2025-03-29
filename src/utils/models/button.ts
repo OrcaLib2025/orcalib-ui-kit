@@ -19,6 +19,7 @@ export interface ModalProps {
     action?: ButtonGroupItemType[];
     buttonDirection?: 'row' | 'column';
     children?: React.ReactNode;
+    backgroundImg?: string;
     theme: 'light' | 'dark';
 }
 

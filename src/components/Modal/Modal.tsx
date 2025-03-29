@@ -15,6 +15,7 @@ export const Modal: React.FC<ModalProps> = ({
     action,
     children,
     buttonDirection = "row",
+    backgroundImg,
     theme,
 }) => {
     if (!isVisible) return null;
@@ -29,7 +30,13 @@ export const Modal: React.FC<ModalProps> = ({
         <div
             className={classnames(cl['modal-overlay'], { [cl['visible']]: isVisible })}
             onClick={handleBackgroundClick}
+            style={{
+                backgroundImage: backgroundImg ? `url(${backgroundImg})` : undefined,
+                backgroundSize: 'cover',
+                backgroundPosition: 'center',
+            }}
         >
+            {backgroundImg && <div className={classnames(cl[`overlay-fade`], cl[`overlay-fade-theme-${theme}`])} />}
             <div className={classnames(cl['modal'], cl[`modal-theme-${theme}`], className)}>
                 {isClosable && (
                     <button
