@@ -14,7 +14,6 @@ export const Tooltip: React.FC<TooltipProps> = ({
     onClick,
     theme,
 }) => {
-    console.log(theme);
     return (
         <div
             className={classnames(className)}
