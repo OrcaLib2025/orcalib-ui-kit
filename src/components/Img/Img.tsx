@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import cl from './Img.module.scss';
 import { ImgProps } from '../../utils/models/Img';
 
@@ -12,11 +12,22 @@ export const Img: React.FC<ImgProps> = ({
     width = '100%',
     height = '100%',
     aspectRatio = '1 / 1',
+    fallbackSrc = 'img/img-placeholder.svg'
 }) => {
     const containerStyle: React.CSSProperties = {
         width,
         height,
         aspectRatio,
+    };
+
+    const [imgSrc, setImgSrc] = useState(src);
+    const [errored, setErrored] = useState(false);
+
+    const handleError = () => {
+        if (!errored && fallbackSrc) {
+            setImgSrc(fallbackSrc);
+            setErrored(true);
+        }
     };
 
     if (picture) {
@@ -30,13 +41,15 @@ export const Img: React.FC<ImgProps> = ({
                         srcSet={picture.srcSet}
                         media={picture.media}
                         type={picture.type}
+                        onError={handleError}
                     />
                 )}
                 <img
-                    src={picture.src}
+                    src={imgSrc}
                     alt={alt}
                     title={title}
                     className={cl.img}
+                    onError={handleError}
                 />
                 {icon && <div className={cl.iconContainer}>{icon}</div>}
             </picture>
@@ -49,10 +62,11 @@ export const Img: React.FC<ImgProps> = ({
             style={containerStyle}
         >
             <img
-                src={src}
+                src={imgSrc}
                 alt={alt}
                 title={title}
                 className={cl.img}
+                onError={handleError}
             />
             {icon && <div className={cl.iconContainer}>{icon}</div>}
         </div>

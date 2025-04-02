@@ -15,4 +15,5 @@ export interface ImgProps {
     width?: number | string;
     height?: number | string;
     aspectRatio?: string;
+    fallbackSrc: string;
 }
