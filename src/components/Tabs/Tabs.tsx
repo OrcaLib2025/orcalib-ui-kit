@@ -9,6 +9,7 @@ export const Tabs: React.FC<TabsProps> = ({
     tabClassName,
     activeTabClassName,
     contentClassName,
+    theme,
 }) => {
     const [activeTab, setActiveTab] = useState(defaultActiveTab || tabs[0]?.id);
     const [indicatorStyle, setIndicatorStyle] = useState({ left: '0px', width: '0px' });
@@ -40,7 +41,7 @@ export const Tabs: React.FC<TabsProps> = ({
     }, [activeTab]);
 
     return (
-        <div className={`${cl.tabsContainer} ${className || ''}`}>
+        <div className={`${cl.tabsContainer} ${className || ''} ${cl[`tabs-theme-${theme}`]}`}>
             <div className={cl.tabsHeader}>
                 {tabs.map((tab) => (
                     <button

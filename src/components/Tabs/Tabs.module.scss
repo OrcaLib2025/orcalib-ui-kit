@@ -52,3 +52,15 @@
     background: colors.$red-deep;
     transition: all .2s cubic-bezier(0.8, 0, 1, 1);
 }
+
+.tab {
+    &-theme {
+        &-light {
+            color: colors.$text-secondary;
+        }
+
+        &-dark {
+            color: colors.$text-primary;
+        }
+    }
+}
