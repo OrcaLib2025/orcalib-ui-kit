@@ -16,4 +16,5 @@ export interface ImgProps {
     height?: number | string;
     aspectRatio?: string;
     fallbackSrc?: string;
+    showLoader: boolean;
 }

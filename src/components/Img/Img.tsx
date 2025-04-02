@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import cl from './Img.module.scss';
 import { ImgProps } from '../../utils/models/Img';
 
@@ -12,7 +12,8 @@ export const Img: React.FC<ImgProps> = ({
     width = '100%',
     height = '100%',
     aspectRatio = '1 / 1',
-    fallbackSrc = 'img/img-placeholder.svg'
+    fallbackSrc = 'img/img-placeholder.svg',
+    showLoader = true
 }) => {
     const containerStyle: React.CSSProperties = {
         width,
@@ -22,13 +23,40 @@ export const Img: React.FC<ImgProps> = ({
 
     const [imgSrc, setImgSrc] = useState(src);
     const [errored, setErrored] = useState(false);
+    const [loading, setLoading] = useState(true);
+
+    useEffect(() => {
+        setLoading(true);
+        setErrored(false);
+        setImgSrc(src);
+    }, [src]);
+
+    const handleLoad = () => {
+        setLoading(false);
+    };
 
     const handleError = () => {
         if (!errored && fallbackSrc) {
-            setImgSrc(fallbackSrc);
+            setLoading(true);
             setErrored(true);
+            setImgSrc(fallbackSrc);
+        } else {
+            setLoading(false);
         }
     };
+
+    const renderImage = () => (
+        <img
+            src={imgSrc}
+            alt={alt}
+            title={title}
+            className={cl.img}
+            onLoad={handleLoad}
+            onError={handleError}
+            loading="lazy"
+            style={{ opacity: loading ? 0 : 1 }}
+        />
+    );
 
     if (picture) {
         return (
@@ -36,6 +64,11 @@ export const Img: React.FC<ImgProps> = ({
                 className={`${cl.imgContainer} ${className || ''}`}
                 style={containerStyle}
             >
+                {showLoader && loading && (
+                    <div className={cl.loader}>
+                        <div className={cl.loaderSpinner} />
+                    </div>
+                )}
                 {picture.srcSet && (
                     <source
                         srcSet={picture.srcSet}
@@ -44,13 +77,7 @@ export const Img: React.FC<ImgProps> = ({
                         onError={handleError}
                     />
                 )}
-                <img
-                    src={imgSrc}
-                    alt={alt}
-                    title={title}
-                    className={cl.img}
-                    onError={handleError}
-                />
+                {renderImage()}
                 {icon && <div className={cl.iconContainer}>{icon}</div>}
             </picture>
         );
@@ -61,13 +88,12 @@ export const Img: React.FC<ImgProps> = ({
             className={`${cl.imgContainer} ${className || ''}`}
             style={containerStyle}
         >
-            <img
-                src={imgSrc}
-                alt={alt}
-                title={title}
-                className={cl.img}
-                onError={handleError}
-            />
+            {showLoader && loading && (
+                <div className={cl.loader}>
+                    <div className={cl.loaderSpinner} />
+                </div>
+            )}
+            {renderImage()}
             {icon && <div className={cl.iconContainer}>{icon}</div>}
         </div>
     );
