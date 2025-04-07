@@ -41,7 +41,7 @@ export const Tabs: React.FC<TabsProps> = ({
     }, [activeTab]);
 
     return (
-        <div className={`${cl.tabsContainer} ${className || ''} ${cl[`tabs-theme-${theme}`]}`}>
+        <div className={`${cl.tabsContainer} ${className || ''} ${cl[`tab-theme-${theme}`]}`}>
             <div className={cl.tabsHeader}>
                 {tabs.map((tab) => (
                     <button
