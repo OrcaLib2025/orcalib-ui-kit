@@ -9,7 +9,7 @@ export const Grid: React.FC<GridProps> = ({
     className,
     style,
 }) => {
-    const getMaxColumns = () => {
+    const getColumns = () => {
         if (typeof columns === 'number') {
             return {
                 sm: columns,
@@ -26,13 +26,13 @@ export const Grid: React.FC<GridProps> = ({
         };
     };
 
-    const { sm, md, lg, xl } = getMaxColumns();
+    const { sm, md, lg, xl } = getColumns();
 
     const gridStyle: CSSProperties & Record<string, string | number> = {
-        '--max-columns': sm,
-        '--md-max-columns': md,
-        '--lg-max-columns': lg,
-        '--xl-max-columns': xl,
+        '--columns': sm,
+        '--md-columns': md,
+        '--lg-columns': lg,
+        '--xl-columns': xl,
         '--gap': typeof gap === 'number' ? `${gap}px` : gap,
         ...style,
     };

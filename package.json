@@ -1,7 +1,7 @@
 {
   "name": "orcalib-ui-kit",
   "private": false,
-  "version": "0.1.7",
+  "version": "0.1.8",
   "type": "module",
   "main": "dist/orcalib-ui-kit.umd.js",
   "module": "dist/orcalib-ui-kit.es.js",

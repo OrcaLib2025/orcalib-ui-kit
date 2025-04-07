@@ -2,28 +2,17 @@
     display: grid;
     width: 100%;
     gap: var(--gap, 16px);
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    --max-columns: 1;
-
-    @supports (grid-template-columns: repeat(var(--max-columns), 1fr)) {
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    }
+    grid-template-columns: repeat(var(--columns), 1fr);
 
     @media (min-width: 576px) {
-        --max-columns: var(--md-max-columns, var(--max-columns, 1));
+        grid-template-columns: repeat(var(--md-columns, var(--columns, 1)), 1fr);
     }
 
     @media (min-width: 768px) {
-        --max-columns: var(--lg-max-columns, var(--max-columns, 1));
+        grid-template-columns: repeat(var(--lg-columns, var(--columns, 1)), 1fr);
     }
 
     @media (min-width: 992px) {
-        --max-columns: var(--xl-max-columns, var(--max-columns, 1));
-    }
-
-    grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
-    &::before {
-        content: '';
-        display: none;
+        grid-template-columns: repeat(var(--xl-columns, var(--columns, 1)), 1fr);
     }
 }
