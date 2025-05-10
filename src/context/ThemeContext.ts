@@ -1,7 +1,7 @@
 import { createContext, useContext } from 'react';
 
 export interface ThemeContextType {
-  theme: string;
+  theme: 'light' | 'dark';
   toggleTheme?: () => void;
   colors?: Record<string, string>;
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
