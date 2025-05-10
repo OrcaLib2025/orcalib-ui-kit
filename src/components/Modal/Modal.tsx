@@ -3,6 +3,7 @@ import { Button } from '../Button';
 import { ModalProps } from '../../utils/models/button';
 import cl from './Modal.module.scss';
 import classnames from 'classnames';
+import { useTheme } from '../../context/ThemeContext';
 
 export const Modal: React.FC<ModalProps> = ({
     onClose,
@@ -16,8 +17,8 @@ export const Modal: React.FC<ModalProps> = ({
     children,
     buttonDirection = "row",
     backgroundImg,
-    theme,
 }) => {
+    const { theme } = useTheme();
     if (!isVisible) return null;
 
     const handleBackgroundClick = (e: React.MouseEvent<HTMLDivElement>) => {
@@ -69,7 +70,6 @@ export const Modal: React.FC<ModalProps> = ({
                     )}>
                         {action.map((buttonProps, index) => (
                             <Button
-                                theme={theme}
                                 key={index}
                                 {...buttonProps} />
                         ))}

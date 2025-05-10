@@ -8,5 +8,4 @@ export interface TaglistProps {
     rotate: 'horizontal' | 'vertical';
     onRemove: (tag: number) => void;
     maxTags?: number;
-    theme: 'light' | 'dark';
 }

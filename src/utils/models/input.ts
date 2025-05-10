@@ -9,5 +9,4 @@ export interface InputProps {
     value: string | number | readonly string[] | undefined
     onChange: (value: string) => void;
     size?: 'default' | 'large';
-    theme: 'light' | 'dark';
 }

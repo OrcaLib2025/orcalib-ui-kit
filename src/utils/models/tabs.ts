@@ -13,5 +13,4 @@ export interface TabsProps {
     tabClassName?: string;
     activeTabClassName?: string;
     contentClassName?: string;
-    theme: 'light' | 'dark';
 }

@@ -3,14 +3,15 @@ import cl from './Search.module.scss';
 import classnames from 'classnames';
 import { Icon } from '../Icon';
 import { SearchProps } from '../../utils/models/search';
+import { useTheme } from '../../context/ThemeContext';
 
 export const Search: React.FC<SearchProps> = ({
     placeholder = 'Введите рецепт или ингредиент...',
     value,
     onChange,
     onSearch,
-    theme = 'light',
 }) => {
+    const { theme } = useTheme();
     const inputRef = useRef<HTMLInputElement>(null);
 
     const handleKeyPress = (e: React.KeyboardEvent) => {

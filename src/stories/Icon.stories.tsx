@@ -283,10 +283,8 @@ AllIcons.parameters = {
 };
 
 export const WithTooltip = () => {
-  const theme = "dark";
-
   return (
-    <Tooltip theme={theme}>
+    <Tooltip>
       <Icon
         icon="plus"
         size="md"

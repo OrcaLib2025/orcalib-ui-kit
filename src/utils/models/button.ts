@@ -20,7 +20,6 @@ export interface ModalProps {
     buttonDirection?: 'row' | 'column';
     children?: React.ReactNode;
     backgroundImg?: string;
-    theme: 'light' | 'dark';
 }
 
 export interface ButtonProps {
@@ -33,5 +32,4 @@ export interface ButtonProps {
     type?: 'primary' | 'secondary' | 'ghost';
     loading?: boolean;
     disabled?: boolean;
-    theme: 'light' | 'dark';
 };

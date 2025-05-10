@@ -3,6 +3,7 @@ import classNames from 'classnames';
 import { Spinner } from '../Spinner';
 import { ButtonProps } from '../../utils/models/button';
 import cl from './Button.module.scss';
+import { useTheme } from '../../context/ThemeContext';
 
 export const Button: React.FC<ButtonProps> = ({
     text,
@@ -14,8 +15,8 @@ export const Button: React.FC<ButtonProps> = ({
     type = 'primary',
     loading = false,
     disabled = false,
-    theme,
 }) => {
+    const { theme } = useTheme();
     const isDisabled = disabled || loading;
 
     return (

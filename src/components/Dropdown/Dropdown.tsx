@@ -2,8 +2,10 @@ import { useState } from "react";
 import { CustomDropdownProps } from "../../utils/models/dropdown";
 import classnames from 'classnames';
 import cl from './Dropdown.module.scss';
+import { useTheme } from '../../context/ThemeContext';
 
-export const Dropdown: React.FC<CustomDropdownProps> = ({ title, options, theme }) => {
+export const Dropdown: React.FC<CustomDropdownProps> = ({ title, options }) => {
+    const { theme } = useTheme();
     const [isOpen, setIsOpen] = useState(false);
 
     const toggleDropdown = () => {

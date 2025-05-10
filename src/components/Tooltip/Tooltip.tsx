@@ -3,6 +3,7 @@ import { TooltipProps } from "../../utils/models/tooltip";
 import { Button } from "../Button";
 import cl from './Tooltip.module.scss';
 import classnames from 'classnames';
+import { useTheme } from '../../context/ThemeContext';
 
 export const Tooltip: React.FC<TooltipProps> = ({
     text,
@@ -12,8 +13,8 @@ export const Tooltip: React.FC<TooltipProps> = ({
     size = 'md',
     position = 'top',
     onClick,
-    theme,
 }) => {
+    const { theme } = useTheme();
     return (
         <div
             className={classnames(className)}
@@ -32,7 +33,6 @@ export const Tooltip: React.FC<TooltipProps> = ({
                         text={text}
                         className={classnames(cl["help-button"], cl[`help-button--${size}`])}
                         onClick={onClick}
-                        theme={theme}
                     />
                 )}
                 <div

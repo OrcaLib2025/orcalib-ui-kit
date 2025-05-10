@@ -34,7 +34,6 @@ Default.args = {
   text: 'Click me',
   size: 'md',
   type: 'primary',
-  theme: 'light',
 };
 
 export const WithIconLeft = Template.bind({});
@@ -42,7 +41,6 @@ WithIconLeft.args = {
   text: 'Click me',
   size: 'md',
   type: 'primary',
-  theme: 'light',
   icon: <span>⭐️</span>,
   iconPosition: 'left',
 };
@@ -52,7 +50,6 @@ WithIconRight.args = {
   text: 'Click me',
   size: 'md',
   type: 'primary',
-  theme: 'light',
   icon: <span>⭐️</span>,
   iconPosition: 'right',
 };
@@ -62,7 +59,6 @@ Loading.args = {
   text: 'Click me',
   size: 'md',
   type: 'primary',
-  theme: 'light',
   loading: true,
 };
 
@@ -71,33 +67,32 @@ Disabled.args = {
   text: 'Click me',
   size: 'md',
   type: 'primary',
-  theme: 'light',
   disabled: true,
 };
 
 export const Sizes = () => (
   <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-    <Button text="Small" size="sm" type="primary" theme="light" />
-    <Button text="Medium" size="md" type="primary" theme="light" />
-    <Button text="Large" size="lg" type="primary" theme="light" />
-    <Button text="Extra Large" size="xl" type="primary" theme="light" />
-    <Button text="Full Width" size="full" type="primary" theme="light" />
+    <Button text="Small" size="sm" type="primary" />
+    <Button text="Medium" size="md" type="primary" />
+    <Button text="Large" size="lg" type="primary" />
+    <Button text="Extra Large" size="xl" type="primary" />
+    <Button text="Full Width" size="full" type="primary" />
   </div>
 );
 
 export const Types = () => (
   <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-    <Button text="Primary" size="md" type="primary" theme="light" />
-    <Button text="Secondary" size="md" type="secondary" theme="light" />
-    <Button text="Ghost" size="md" type="ghost" theme="light" />
+    <Button text="Primary" size="md" type="primary" />
+    <Button text="Secondary" size="md" type="secondary" />
+    <Button text="Ghost" size="md" type="ghost" />
   </div>
 );
 
 export const Themes = () => (
   <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-    <Button text="Light Theme" size="md" type="ghost" theme="light" />
+    <Button text="Light Theme" size="md" type="ghost" />
     <div style={{background: "#222"}}>
-        <Button text="Dark Theme" size="md" type="ghost" theme="dark" />
+        <Button text="Dark Theme" size="md" type="ghost" />
     </div>
   </div>
 );

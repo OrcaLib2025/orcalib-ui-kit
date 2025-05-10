@@ -45,7 +45,6 @@ export const Default = Template.bind({});
 Default.args = {
   title: 'Заголовок',
   subtitle: 'Подзаголовок',
-  theme: 'light',
   isClosable: true,
   children: <p>Содержимое модального окна</p>,
   action: [
@@ -57,13 +56,11 @@ Default.args = {
 export const DarkTheme = Template.bind({});
 DarkTheme.args = {
   ...Default.args,
-  theme: 'dark',
 };
 
 export const WithBackgroundImage = Template.bind({});
 WithBackgroundImage.args = {
   ...Default.args,
-  theme: 'dark',
   backgroundImg: 'img/modalbg.jpg',
 };
 
@@ -84,7 +81,6 @@ export const Sizes = () => (
     <Modal
       title="Маленький"
       subtitle="Размер sm"
-      theme="light"
       isVisible={true}
       onClose={() => {}}
       onBackgroundClick={() => {}}
@@ -95,7 +91,6 @@ export const Sizes = () => (
     <Modal
       title="Большой"
       subtitle="Размер lg"
-      theme="light"
       isVisible={true}
       onClose={() => {}}
       onBackgroundClick={() => {}}
@@ -111,7 +106,6 @@ export const Themes = () => (
     <Modal
       title="Light Theme"
       subtitle="Тема light"
-      theme="light"
       isVisible={true}
       onClose={() => {}}
       onBackgroundClick={() => {}}
@@ -122,7 +116,6 @@ export const Themes = () => (
       <Modal
         title="Dark Theme"
         subtitle="Тема dark"
-        theme="dark"
         isVisible={true}
         onClose={() => {}}
         onBackgroundClick={() => {}}

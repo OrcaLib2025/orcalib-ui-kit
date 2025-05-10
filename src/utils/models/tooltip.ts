@@ -6,5 +6,4 @@ export interface TooltipProps {
     className?: string;
     onClick?: () => void;
     position?: 'top' | 'bottom' | 'left' | 'right';
-    theme: 'light' | 'dark';
 }

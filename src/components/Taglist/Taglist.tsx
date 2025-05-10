@@ -10,7 +10,6 @@ export const Taglist: React.FC<TaglistProps> = ({
     rotate,
     onRemove,
     maxTags,
-    theme,
 }) => {
     const effectiveMaxTags = rotate === 'vertical' && !maxTags ? 16 : maxTags;
 
@@ -26,7 +25,7 @@ export const Taglist: React.FC<TaglistProps> = ({
         <div className={classnames(cl["taglist"], cl[`taglist--${rotate}`])}>
             {visibleTags.map(({ key, tag }) => (
                 <div key={key} className={cl["taglist__item"]}>
-                    <Tooltip content={tag} size="sm" theme={theme}>
+                    <Tooltip content={tag} size="sm">
                         <span className={cl["taglist__text"]}>{tag}</span>
                     </Tooltip>
                     <Icon
@@ -45,7 +44,7 @@ export const Taglist: React.FC<TaglistProps> = ({
                     role="button"
                     tabIndex={0}
                 >
-                    <Tooltip content={`Показать ${hiddenTagsCount} скрытых тегов`} size="sm" theme={theme}>
+                    <Tooltip content={`Показать ${hiddenTagsCount} скрытых тегов`} size="sm">
                         <span className={cl["taglist__text"]}>+{hiddenTagsCount}</span>
                     </Tooltip>
                 </div>

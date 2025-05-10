@@ -2,6 +2,7 @@ import React from 'react';
 import classnames from 'classnames';
 import { InputProps } from '../../utils/models/input';
 import cl from './Input.module.scss';
+import { useTheme } from '../../context/ThemeContext';
 
 export const Input: React.FC<InputProps> = ({
     onFocus,
@@ -13,8 +14,9 @@ export const Input: React.FC<InputProps> = ({
     max,
     onChange,
     size = 'default',
-    theme,
 }) => {
+    const { theme } = useTheme();
+
     const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         onChange(e.target.value);
     };

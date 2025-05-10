@@ -3,5 +3,4 @@ export interface SearchProps {
     onChange: (value: string) => void;
     onSearch?: (query: string) => void;
     placeholder?: string;
-    theme?: 'light' | 'dark';
 }

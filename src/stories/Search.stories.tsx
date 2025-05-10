@@ -33,21 +33,18 @@ export const Default = Template.bind({});
 Default.args = {
   placeholder: 'Введите рецепт или ингредиент...',
   value: '',
-  theme: 'light',
 };
 
 export const DarkTheme = Template.bind({});
 DarkTheme.args = {
   placeholder: 'Поиск в темной теме...',
   value: '',
-  theme: 'dark',
 };
 
 export const WithInitialValue = Template.bind({});
 WithInitialValue.args = {
   placeholder: 'Введите рецепт или ингредиент...',
   value: 'Пирог с яблоками',
-  theme: 'light',
 };
 
 export const Interactive = () => {
@@ -58,7 +55,6 @@ export const Interactive = () => {
         placeholder="Введите текст..."
         value={value}
         onChange={setValue}
-        theme="light"
       />
       <p style={{ marginTop: '10px' }}>Текущее значение: {value}</p>
     </div>
