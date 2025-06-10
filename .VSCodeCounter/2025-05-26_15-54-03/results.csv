@@ -1,0 +1,260 @@
+"filename", "language", "JSON", "JSON with Comments", "TypeScript", "JavaScript JSX", "TypeScript JSX", "Markdown", "XML", "HTML", "SCSS", "comment", "blank", "total"
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\.storybook\main.ts", "TypeScript", 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 1, 19
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\.storybook\preview.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 2, 14
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\.storybook\vitest.setup.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 2, 2, 9
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\README.md", "Markdown", 0, 0, 0, 0, 0, 45, 0, 0, 0, 0, 10, 55
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\eslint.config.js", "JavaScript JSX", 0, 0, 0, 27, 0, 0, 0, 0, 0, 0, 2, 29
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\index.html", "HTML", 0, 0, 0, 0, 0, 0, 0, 13, 0, 0, 1, 14
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\package-lock.json", "JSON", 8154, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8155
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\package.json", "JSON", 61, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 62
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\add-image.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 1, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\add-list.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\add-photo.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\add-uder.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\arrow-chevron-down.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\arrow-chevron-left.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\arrow-chevron-right.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\arrow-chevron-up.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\arrow-reverse.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\arrow-to-down-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\arrow-to-left-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\arrow-to-right-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\arrow-to-top-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\attachment.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\check-circle-fill.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\check-circle-outline.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\check.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\close-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\close-circle-fill.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 0, 1, 1, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\close-circle.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\close.svg", "XML", 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 1, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\copy.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\desktop.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\dish-plate.svg", "XML", 0, 0, 0, 0, 0, 0, 11, 0, 0, 1, 8, 20
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\dots.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\edit.svg", "XML", 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 1, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\email-success.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\email.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\eye-closed-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\eye-closed.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\eye-open-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\eye-open.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-bread-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 0, 1, 1, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-cheese-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 1, 10
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-dinner-fork-spoon-knife-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 14, 0, 0, 1, 1, 16
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-dish-hand-serve.svg", "XML", 0, 0, 0, 0, 0, 0, 13, 0, 0, 1, 1, 15
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-dish.svg", "XML", 0, 0, 0, 0, 0, 0, 9, 0, 0, 1, 1, 11
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-fried-egg.svg", "XML", 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 1, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-hamburger.svg", "XML", 0, 0, 0, 0, 0, 0, 16, 0, 0, 1, 1, 18
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-hot-dog.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 0, 1, 1, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-knife-and-fork.svg", "XML", 0, 0, 0, 0, 0, 0, 15, 0, 0, 1, 1, 17
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-meat-beef-stake-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 13, 0, 0, 1, 1, 15
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-meat-chicken-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 14, 0, 0, 1, 1, 16
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-pizza-slice-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 22, 0, 0, 1, 1, 24
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-taco-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 1, 10
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food-wine-and-glass.svg", "XML", 0, 0, 0, 0, 0, 0, 12, 0, 0, 1, 1, 14
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\food.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\history.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\home.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\image.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\info-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\info.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\key.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\libro-icon.svg", "XML", 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 1, 10
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\lock.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\logout.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\notification-new.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\notification.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\phone.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\pin.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\plus.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\search.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\selector-down.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\selector-up.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\settings.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\share.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\sort-asc.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\sort-desc.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\spinner-cringe-base.svg", "XML", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\spinner-for-normies.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 1, 0, 6
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\tablet.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\trash-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\trash.svg", "XML", 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\unlink.svg", "XML", 0, 0, 0, 0, 0, 0, 19, 0, 0, 1, 1, 21
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\upload-picture.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\user-check.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\user-follow.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\user.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\warning-circle-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\warning-circle.svg", "XML", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\warning-hex-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\warning-hex.svg", "XML", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\warning-triangle-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 0, 1, 1, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\icons\warning-triangle.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\public\img\img-placeholder.svg", "XML", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\add-image.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 1, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\add-list.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\add-photo.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\add-uder.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\arrow-chevron-down.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\arrow-chevron-left.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\arrow-chevron-right.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\arrow-chevron-up.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\arrow-reverse.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\arrow-to-down-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\arrow-to-left-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\arrow-to-right-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\arrow-to-top-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\attachment.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\check-circle-fill.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\check-circle-outline.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\check.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\close-bold.svg", "XML", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\close-circle-fill.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 0, 1, 1, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\close-circle.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\close.svg", "XML", 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 1, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\copy.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\desktop.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\dish-plate.svg", "XML", 0, 0, 0, 0, 0, 0, 11, 0, 0, 1, 8, 20
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\dots.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\edit.svg", "XML", 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 1, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\email-success.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\email.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\eye-closed-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\eye-closed.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\eye-open-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\eye-open.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-bread-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 0, 1, 1, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-cheese-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 1, 10
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-dinner-fork-spoon-knife-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 14, 0, 0, 1, 1, 16
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-dish-hand-serve.svg", "XML", 0, 0, 0, 0, 0, 0, 13, 0, 0, 1, 1, 15
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-dish.svg", "XML", 0, 0, 0, 0, 0, 0, 9, 0, 0, 1, 1, 11
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-fried-egg.svg", "XML", 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 1, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-hamburger.svg", "XML", 0, 0, 0, 0, 0, 0, 16, 0, 0, 1, 1, 18
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-hot-dog.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 0, 1, 1, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-knife-and-fork.svg", "XML", 0, 0, 0, 0, 0, 0, 15, 0, 0, 1, 1, 17
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-meat-beef-stake-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 13, 0, 0, 1, 1, 15
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-meat-chicken-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 14, 0, 0, 1, 1, 16
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-pizza-slice-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 22, 0, 0, 1, 1, 24
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-taco-svgrepo-com.svg", "XML", 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 1, 10
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food-wine-and-glass.svg", "XML", 0, 0, 0, 0, 0, 0, 12, 0, 0, 1, 1, 14
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\food.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\history.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\home.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\image.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\info-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\info.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\key.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\libro-icon.svg", "XML", 0, 0, 0, 0, 0, 0, 8, 0, 0, 1, 1, 10
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\lock.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\logout.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\notification-new.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\notification.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\phone.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\pin.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\plus.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\search.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\selector-down.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\selector-up.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\settings.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\share.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\sort-asc.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\sort-desc.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\spinner-cringe-base.svg", "XML", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\spinner-for-normies.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 1, 0, 6
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\tablet.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\trash-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\trash.svg", "XML", 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\unlink.svg", "XML", 0, 0, 0, 0, 0, 0, 19, 0, 0, 1, 1, 21
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\upload-picture.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\user-check.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\user-follow.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\user.svg", "XML", 0, 0, 0, 0, 0, 0, 5, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\warning-circle-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\warning-circle.svg", "XML", 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\warning-hex-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\warning-hex.svg", "XML", 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 6
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\warning-triangle-filled.svg", "XML", 0, 0, 0, 0, 0, 0, 10, 0, 0, 1, 1, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\assets\icons\warning-triangle.svg", "XML", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Button\Button.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 81, 0, 19, 100
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Button\Button.tsx", "TypeScript JSX", 0, 0, 0, 0, 39, 0, 0, 0, 0, 0, 3, 42
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Button\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Checklist\Checklist.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 9, 55
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Checklist\Checklist.tsx", "TypeScript JSX", 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 4, 45
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Checklist\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Dropdown\Dropdown.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 127, 0, 17, 144
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Dropdown\Dropdown.tsx", "TypeScript JSX", 0, 0, 0, 0, 40, 0, 0, 0, 0, 0, 5, 45
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Dropdown\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Grid\Grid.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 27, 0, 5, 32
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Grid\Grid.tsx", "TypeScript JSX", 0, 0, 0, 0, 41, 0, 0, 0, 0, 0, 5, 46
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Grid\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Icon\Icon.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 295, 0, 88, 383
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Icon\Icon.tsx", "TypeScript JSX", 0, 0, 0, 0, 33, 0, 0, 0, 0, 0, 3, 36
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Icon\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Img\Img.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 46, 0, 5, 51
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Img\Img.tsx", "TypeScript JSX", 0, 0, 0, 0, 92, 0, 0, 0, 0, 0, 9, 101
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Img\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Input\Input.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 79, 0, 15, 94
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Input\Input.tsx", "TypeScript JSX", 0, 0, 0, 0, 38, 0, 0, 0, 0, 0, 4, 42
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Input\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Modal\Modal.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 109, 0, 20, 129
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Modal\Modal.tsx", "TypeScript JSX", 0, 0, 0, 0, 74, 0, 0, 0, 0, 0, 8, 82
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Modal\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Search\Search.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 4, 30
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Search\Search.tsx", "TypeScript JSX", 0, 0, 0, 0, 73, 0, 0, 0, 0, 0, 7, 80
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Search\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Select\Select.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 99, 0, 19, 118
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Select\Select.tsx", "TypeScript JSX", 0, 0, 0, 0, 75, 0, 0, 0, 0, 0, 7, 82
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Select\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Spinner\Spinner.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 23, 0, 3, 26
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Spinner\Spinner.tsx", "TypeScript JSX", 0, 0, 0, 0, 31, 0, 0, 0, 0, 0, 5, 36
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Spinner\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Tabs\Tabs.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 54, 0, 11, 65
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Tabs\Tabs.tsx", "TypeScript JSX", 0, 0, 0, 0, 58, 0, 0, 0, 0, 0, 9, 67
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Tabs\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Taglist\Taglist.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 51, 0, 9, 60
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Taglist\Taglist.tsx", "TypeScript JSX", 0, 0, 0, 0, 59, 0, 0, 0, 0, 0, 6, 65
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Taglist\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Tooltip\Tooltip.module.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 91, 0, 17, 108
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Tooltip\Tooltip.tsx", "TypeScript JSX", 0, 0, 0, 0, 56, 0, 0, 0, 0, 0, 1, 57
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\Tooltip\index.tsx", "TypeScript JSX", 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\components\index.ts", "TypeScript", 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 1, 15
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\context\ThemeContext.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 0, 1, 4, 21
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\index.ts", "TypeScript", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\stories\Button.stories.tsx", "TypeScript JSX", 0, 0, 0, 0, 88, 0, 0, 0, 0, 0, 10, 98
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\stories\Grid.stories.tsx", "TypeScript JSX", 0, 0, 0, 0, 58, 0, 0, 0, 0, 0, 9, 67
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\stories\Icon.stories.tsx", "TypeScript JSX", 0, 0, 0, 0, 286, 0, 0, 0, 0, 0, 12, 298
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\stories\Modal.stories.tsx", "TypeScript JSX", 0, 0, 0, 0, 117, 0, 0, 0, 0, 0, 11, 128
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\stories\Search.stories.tsx", "TypeScript JSX", 0, 0, 0, 0, 59, 0, 0, 0, 0, 0, 6, 65
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\stories\Select.stories.tsx", "TypeScript JSX", 0, 0, 0, 0, 59, 0, 0, 0, 0, 1, 6, 66
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\iconMap.ts", "TypeScript", 0, 0, 170, 0, 0, 0, 0, 0, 0, 0, 1, 171
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\Img.ts", "TypeScript", 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 1, 20
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\button.ts", "TypeScript", 0, 0, 33, 0, 0, 0, 0, 0, 0, 0, 3, 36
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\checklist.ts", "TypeScript", 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 1, 15
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\dropdown.ts", "TypeScript", 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 2, 11
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\grid.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\header.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 0, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\icon.ts", "TypeScript", 0, 0, 95, 0, 0, 0, 0, 0, 0, 1, 2, 98
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\index.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 1, 1, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\input.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\search.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 0, 0, 6
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\select.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 1, 14
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\tabs.ts", "TypeScript", 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 2, 16
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\tags.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\theme.ts", "TypeScript", 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\themeswitcher.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 4
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\models\tooltip.ts", "TypeScript", 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 9
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\variables\colors.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 20, 4, 7, 31
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\variables\extras.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 13, 0, 3, 16
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\variables\patterns.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 74, 0, 1, 75
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\variables\responds.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 57, 0, 4, 61
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\variables\shadows.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 0, 5
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\utils\variables\spacing.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\src\vite-env.d.ts", "TypeScript", 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\tsconfig.app.json", "JSON", 21, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 21
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\tsconfig.json", "JSON with Comments", 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 1, 8
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\tsconfig.node.json", "JSON", 20, 0, 0, 0, 0, 0, 0, 0, 0, 2, 3, 25
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\updateIconsNames.js", "JavaScript JSX", 0, 0, 0, 30, 0, 0, 0, 0, 0, 8, 9, 47
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\vite.config.ts", "TypeScript", 0, 0, 35, 0, 0, 0, 0, 0, 0, 0, 1, 36
+"c:\Users\denis\OneDrive\Рабочий стол\VKR\orcalib-ui-kit\vitest.workspace.ts", "TypeScript", 0, 0, 25, 0, 0, 0, 0, 0, 0, 3, 5, 33
+"Total", "-", 8256, 7, 562, 57, 1431, 45, 826, 13, 1331, 68, 511, 13107

@@ -6,6 +6,10 @@
     align-items: center;
     max-width: 840px;
     width: 100%;
+
+    @media (max-width: 855px) {
+        display: none;
+    }
 }
 
 .search-input {
