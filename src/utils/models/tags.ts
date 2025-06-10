@@ -1,11 +1,6 @@
-export interface Tags {
-    key: number;
-    tag: string;
-}
-
 export interface TaglistProps {
-    tags: Tags[];
+    tags: string[];
     rotate: 'horizontal' | 'vertical';
-    onRemove: (tag: number) => void;
+    onRemove: (tag: string) => void;
     maxTags?: number;
 }

@@ -23,15 +23,15 @@ export const Taglist: React.FC<TaglistProps> = ({
 
     return (
         <div className={classnames(cl["taglist"], cl[`taglist--${rotate}`])}>
-            {visibleTags.map(({ key, tag }) => (
-                <div key={key} className={cl["taglist__item"]}>
+            {visibleTags.map((tag, i) => (
+                <div key={`${i}-tag-${tag}`} className={cl["taglist__item"]}>
                     <Tooltip content={tag} size="sm">
                         <span className={cl["taglist__text"]}>{tag}</span>
                     </Tooltip>
                     <Icon
                         icon='close-circle-fill'
                         size='sm'
-                        onClick={() => onRemove(key)}
+                        onClick={() => onRemove(tag)}
                         className={cl["taglist__remove"]}
                     />
                 </div>
